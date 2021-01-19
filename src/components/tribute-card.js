@@ -1,12 +1,16 @@
 import React from "react"
 
 const Card = () => (
-  <div className="p-4 border-4 border-transparent hover:border-yellow-500 border-solid text-center flex flex-col w-full">
-    <a href="/post" className="text-yellow-500">
-      <h4 className="calligraphy text-5xl">Our</h4>
-      <p className="normal-style">I GOd Forgive us</p>
+  <article className="w-full bg-gray-200 shadow rounded p-4">
+    <a href="/post">
+      <h4 className="text-center normal-style">Our Mother</h4>
+      <p className="font-thin text-base">
+        Id laboris anim mollit aute veniam ullamco mollit esse consectetur sunt
+        anim consequat eiusmod. Cupidatat minim cupidatat velit nostrud culpa
+        laborum in consectetur ea tempor aliqua.
+      </p>
     </a>
-  </div>
+  </article>
 )
 
 export default Card

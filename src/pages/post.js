@@ -6,47 +6,16 @@ import SEO from "../components/seo"
 import port from "../images/port.jpeg"
 
 const SecondPage = () => (
-  <>
+  <Layout>
     <main>
-      <div className="absolute mt-5 mr-5 flex flex-col top-0 right-0">
+      <div className="hidden md:block absolute mt-5 mr-5 flex flex-col top-0 right-0">
         <figure className="h-24 w-24">
           <img className="rounded-full" src={port} />
         </figure>
         <p>Elizabeth ilo</p>
       </div>
-      <nav className="absolute top-0 bg-transparent max-h-24 flex w-full">
-        <div className="w-1/3 bg-black border-r-4 border-l-4 border-b-4 border-solid border-yellow-500 h-16 rounded-b-lg ">
-          <ul className="m-0 flex justify-center items-center p-4 text-white  w-full">
-            <li>
-              <a
-                className="border-b-2 p-4 border-transparent hover:border-yellow-500"
-                href="javascript:void()"
-              >
-                About
-              </a>
-            </li>
-            <li>
-              <a
-                className="border-b-2 p-4 border-transparent hover:border-yellow-500"
-                href="javascript:void()"
-              >
-                Gallery
-              </a>
-            </li>
-            <li>
-              <a
-                className="border-b-2 p-4 border-transparent hover:border-yellow-500"
-                href="javascript:void()"
-              >
-                Tributes
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div className="w-1/3"></div>
-        <div className="w-1/3"></div>
-      </nav>
-      <section className="w-full text-center p-24 bg-yello-100">
+
+      <section className="w-full text-center p-2 md:p-24 bg-yello-100">
         <h4 className="calligraphy text-7xl">Our Mother</h4>
         <p className="text-2xl norrmal-style">
           Dolore ut dolore cupidatat do ex quis consectetur est sunt cupidatat
@@ -80,7 +49,7 @@ const SecondPage = () => (
         </p>
       </section>
     </main>
-  </>
+  </Layout>
 )
 
 export default SecondPage
