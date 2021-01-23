@@ -1,7 +1,7 @@
 import React from "react"
 
 const SimpCard = ({heading, answer}) => (
-  <article className="w-full bg-white shadow rounded p-2">
+  <article className="m-2 w-full bg-white shadow rounded p-2">
     <a href="/post">
 <h4 className="font-bold normal-style">{heading}</h4>
 <hr/>

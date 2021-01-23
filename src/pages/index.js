@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import bg from "../gallery/bg3.png"
+import bg from "../gallery/bg.png"
 import SimpCard from "../components/SimpCard"
 const IndexPage = () => (
   <Layout>
@@ -14,8 +14,8 @@ const IndexPage = () => (
         <h1 className="text-center font-bold calligraphy">
           EXIT OF A GREAT WOMAN
         </h1>
-        <p className="text-center font-thin text-xl">
-          (OFFICE - THE CANDLE LIGHTER)
+        <p className="text-center font-thin text-sm md:text-xl">
+          OFFICE - THE CANDLE LIGHTER
         </p>
         <p className="text-center normal-style font-bold text-xl">
           (1938 - 2021)
@@ -32,9 +32,10 @@ const IndexPage = () => (
           (NEE Obiajulu)
         </p>
         <p className="text-sm text-center">
-          Who went to be with our lord on Monday, January 11th 2021. Join us to
-          celebrate our unique memories and moments on
+          Who went to be with our lord on Monday, January 11th 2021. Please Join us to
+          celebrate her unique memories and moments on
         </p>
+        <SimpCard heading="Funeral Date" answer="21st March, 2021"/>
         <SimpCard heading="Funeral Mass" answer="St. Peter's catholic church Oko, Orumba North LGA , Anambra State."/>
       </div>
     </main>

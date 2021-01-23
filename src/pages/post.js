@@ -15,9 +15,9 @@ const SecondPage = () => (
         <p>Elizabeth ilo</p>
       </div>
 
-      <section className="w-full text-center p-2 md:p-24 bg-yello-100">
-        <h4 className="calligraphy text-7xl">Our Mother</h4>
-        <p className="text-2xl norrmal-style">
+      <section className="w-full text-center mt-5 p-4 md:p-24 bg-yello-100">
+        <h4 className="calligraphy text-5xl md:text-7xl">Our Mother</h4>
+        <p className="text-sm md:text-2xl normal-style">
           Dolore ut dolore cupidatat do ex quis consectetur est sunt cupidatat
           id. Laborum incididunt officia ipsum ea ut enim elit exercitation et
           deserunt sit. Sunt qui exercitation reprehenderit Lorem dolore aute
