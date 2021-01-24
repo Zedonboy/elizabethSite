@@ -1,15 +1,16 @@
 import React from "react"
 
-const Card = () => (
+const Card = ({ title, slug, excerpt, author, rank }) => (
   <article className="w-full bg-gray-200 shadow rounded p-4">
-    <a href="/post">
-      <h4 className="text-center normal-style">Our Mother</h4>
-      <p className="font-thin text-base">
-        Id laboris anim mollit aute veniam ullamco mollit esse consectetur sunt
-        anim consequat eiusmod. Cupidatat minim cupidatat velit nostrud culpa
-        laborum in consectetur ea tempor aliqua.
-      </p>
+    <a href={slug}>
+      <h4 className="text-center normal-style">{title}</h4>
+      <p className="m-0 font-light normal-style text-base">{excerpt}</p>
     </a>
+    <footer>
+      <hr />
+      <p className="m-0">By {author}</p>
+      <p className="m-0 text-xs font-thin">{rank}</p>
+    </footer>
   </article>
 )
 

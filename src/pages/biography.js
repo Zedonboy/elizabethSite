@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import port from "../images/port.jpeg"
+import port from "../images/port1.jpg"
 const BiograpgyPage = () => (
   <Layout>
     <main className="flex flex-col text-purple-900 mt-4 justify-center">

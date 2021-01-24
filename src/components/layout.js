@@ -18,8 +18,8 @@ const Layout = ({ children }) => {
     <>
       <section className="w-full h-full relative bg-pink-100">
       <nav className="bg-transparent max-h-24 flex w-full">
-        <div className="w-full md:w-1/3 bg-black border-r-4 border-l-4 border-b-4 border-solid border-yellow-500 h-16 rounded-b-lg ">
-          <ul className="m-0 flex justify-center normal-style items-center p-4 text-white  w-full">
+        <div className="w-full flex-shrink-0 md:w-2/3 bg-black border-r-4 border-l-4 border-b-4 border-solid border-yellow-500 h-16 rounded-b-lg ">
+          <ul className="m-0 overflow-x-auto flex normal-style p-4 text-white  w-full">
             <li>
               <a
                 className="border-b-2 p-4 text-sm border-transparent hover:border-yellow-500"
@@ -34,6 +34,14 @@ const Layout = ({ children }) => {
                 href="/gallery"
               >
                 Gallery
+              </a>
+            </li>
+            <li>
+              <a
+                className="border-b-2 p-4 text-sm border-transparent hover:border-yellow-500"
+                href="/timelines"
+              >
+                Timelines
               </a>
             </li>
             <li>
@@ -54,8 +62,6 @@ const Layout = ({ children }) => {
             </li>
           </ul>
         </div>
-        <div className="w-1/3"></div>
-        <div className="w-1/3"></div>
       </nav>
       {children}
       <footer className="p-2 flex justify-center items-center">

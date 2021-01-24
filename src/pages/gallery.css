@@ -1,3 +1,8 @@
+.candle {
+    display: inline-block;
+    height: 48px;
+    width: 10px;
+}
 #photos {
     /* Prevent vertical gaps */
     line-height: 0;
