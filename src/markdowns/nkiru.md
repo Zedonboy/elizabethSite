@@ -2,7 +2,7 @@
 title: "IN HONOR OF MY AMIABLE MOTHER"
 slug: "/tributes/nkiru-tribute"
 excerpt: "I know that one day the sun will set, but I did not expect it this soon. Why set when....."
-author: "Nkiru"
+author: "Nkiruka"
 rank: "4th Daughter"
 ---
 

@@ -27,7 +27,7 @@ const Timeline = () => (
             <div className="flag-wrapper">
               <span className="flag">Requiem mass</span>
               <span className="time-wrapper">
-                <span className="time">18th March, 2021</span>
+                <span className="time">10am 18th March, 2021</span>
               </span>
             </div>
             <div className="desc">
@@ -43,7 +43,7 @@ const Timeline = () => (
             <div className="flag-wrapper">
               <span className="flag">Condolence</span>
               <span className="time-wrapper">
-                <span className="time">20th March, 2021</span>
+                <span className="time">12pm 20th March, 2021</span>
               </span>
             </div>
             <div className="desc">

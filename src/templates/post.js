@@ -27,7 +27,7 @@ const SecondPage = ({
           </h4>
           <p className="text-center normal-style text-sm">{frontmatter.date}</p>
           <div
-            className="text-sm md:text-2xl normal-style"
+            className="tribute-content"
             dangerouslySetInnerHTML={{ __html: html }}
           ></div>
         </section>
