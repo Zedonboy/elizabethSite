@@ -30,7 +30,7 @@ const IndexPage = () => (
           Madam Elizabeth Mgbechikwelu ILO
         </p>
         <p className="font-thin text-sm text-green-500 text-center">
-          (NEE Obiajulu)
+          NEE Obiajulu
         </p>
         <p className="text-sm text-center">
           Who went to be with our lord on Monday 11th January 2021. Please Join us to

@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             <li>
               <a
                 className="border-b-2 p-4 text-sm border-transparent hover:border-yellow-500"
-                href="/timelines"
+                href="/schedule"
               >
                 Schedule
               </a>
