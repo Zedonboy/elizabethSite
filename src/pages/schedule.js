@@ -11,13 +11,14 @@ const Timeline = () => (
         <li>
           <div className="direction-r">
             <div className="flag-wrapper">
-              <span className="flag">Vigil Mass</span>
+              <span className="flag">Wakekeep</span>
               <span className="time-wrapper">
                 <span className="time">17th March, 2021</span>
               </span>
             </div>
             <div className="desc">
-              4pm Vigil mass at chief Francis ilo's compound Ezioko village Oko
+              5pm with a mass by His Lordship Most Rev. Doc Paulinues Ezeokafor,
+              Catholic bishop of Awka, at chief Francis Ilo's
             </div>
           </div>
         </li>
@@ -27,13 +28,12 @@ const Timeline = () => (
             <div className="flag-wrapper">
               <span className="flag">Requiem mass</span>
               <span className="time-wrapper">
-                <span className="time">10am 18th March, 2021</span>
+                <span className="time">18th March, 2021</span>
               </span>
             </div>
             <div className="desc">
-              Requiem mass at peter's catholic church Oko. Intermemt follows
-              immediately after mass at her husband's compound. Reception and
-              entertainment of guest follows too as same venue
+              10am Burial Mass by His Lordship Most Rev Doc. Okpalaibe,
+              Catholic Bishop of Ekwulobia Diocese
             </div>
           </div>
         </li>
@@ -46,9 +46,7 @@ const Timeline = () => (
                 <span className="time">12pm 20th March, 2021</span>
               </span>
             </div>
-            <div className="desc">
-                Condolence visits from inlaws
-            </div>
+            <div className="desc">Condolence visits from inlaws</div>
           </div>
         </li>
         <li>

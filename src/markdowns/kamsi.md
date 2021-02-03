@@ -8,8 +8,7 @@ author: "Kamsiyochukwu Nwafor"
 rank: "Grandson"
 ---
 
-Grandmama ,  my mummy said you have gone to meet Jesus and I will not see you again.  Grandma I love you. Tell Jesus I love him too. Granny I miss you.## Chibuike Chukwurah
-Son-in-law
+Grandmama ,  my mummy said you have gone to meet Jesus and I will not see you again.  Grandma I love you. Tell Jesus I love him too. Granny I miss you.
 
 ## Kamsiyochukwu Nwafor
 Your Grandson

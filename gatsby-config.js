@@ -27,6 +27,13 @@ module.exports = {
         path: `${__dirname}/src/markdowns`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blogdata`,
+        path: `${__dirname}/src/blogdata`,
+      },
+    },
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

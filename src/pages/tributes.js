@@ -5,25 +5,7 @@ import port from "../images/port1.jpg"
 import bg from "../images/bg.jpg"
 import Card from "../components/tribute-card"
 import Layout from "../components/layout"
-const IndexPage = () => {
-  const query = graphql`
-    {
-      allMarkdownRemark {
-        edges {
-          node {
-            frontmatter {
-              slug
-              excerpt
-              title
-              author
-              rank
-            }
-          }
-        }
-      }
-    }
-  `
-  const data = useStaticQuery(query)
+const IndexPage = ({data}) => {
   return (
     <Layout>
       <main className="flex flex-col justify-center p-2 md:p-24">
@@ -37,11 +19,11 @@ const IndexPage = () => {
           Tributes and Condolences
         </h4>
         <section className="flex flex-wrap w-full justify-around">
-          {data.allMarkdownRemark.edges.map(({ node }) => (
+          {data.allFile.edges.map(({ node }) => (
             <div className="w-full md:w-1/3 p-4">
-              <Card title={node.frontmatter.title} slug={node.frontmatter.slug} 
-              excerpt={node.frontmatter.excerpt} rank={node.frontmatter.rank}
-              author={node.frontmatter.author}/>
+              <Card title={node.childMarkdownRemark.frontmatter.title} slug={node.childMarkdownRemark.frontmatter.slug} 
+              excerpt={node.childMarkdownRemark.frontmatter.excerpt} rank={node.childMarkdownRemark.frontmatter.rank}
+              author={node.childMarkdownRemark.frontmatter.author}/>
             </div>
           ))}
         </section>
@@ -50,3 +32,25 @@ const IndexPage = () => {
   )
 }
 export default IndexPage
+
+export const query = graphql`
+  {
+    allFile(filter: {sourceInstanceName: {eq: "markdowns"}}) {
+      edges {
+        node {
+          id
+          childMarkdownRemark {
+            frontmatter {
+              title
+              slug
+              excerpt
+              author
+              rank
+              date
+            }
+          }
+        }
+      }
+    }
+  }
+`

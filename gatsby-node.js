@@ -9,11 +9,20 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const blogPostTemplate = require.resolve(`./src/templates/post.js`)
   const result = await graphql(`
     {
-      allMarkdownRemark {
+      allFile(filter: { sourceInstanceName: { eq: "markdowns" } }) {
         edges {
           node {
-            frontmatter {
-              slug
+            id
+            childMarkdownRemark {
+              html
+              frontmatter {
+                title
+                slug
+                excerpt
+                author
+                rank
+                date
+              }
             }
           }
         }
@@ -25,13 +34,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+  result.data.allFile.edges.forEach(({ node }) => {
     createPage({
-      path: node.frontmatter.slug,
+      path: node.childMarkdownRemark.frontmatter.slug,
       component: blogPostTemplate,
       context: {
         // additional data can be passed via context
-        slug: node.frontmatter.slug,
+        slug: node.childMarkdownRemark.frontmatter.slug,
       },
     })
   })
