@@ -211,3 +211,17 @@ Adieu office.
 
 ---
 
+CELEBRATION OF HOMEWARD JOURNEY OF MADAM ELIZABETH MGBECHIKWELU ILO
+
+I write on behalf of my family to condole with you on the death of your mother, Late Madam Elizabeth Mgbechikwelu Ilo. The permissiveness of God’s will has simply prevailed because through death we shall all be born to eternal life. Doctor Ilo, that is our prayer for her and hope that you mourn her death with wisdom from God.
+
+Your quintessential mother who died, buried and is being mourn respectively came, saw and conquered. Remember, you are not alone in  the loss. In your mother’s earthly good qualities which she wore like an amour, the people of Ezioko village, Oko in Orumba North Local Government Area of Anambra State and beyond mourn with you, your family, your friends, associates and other good people also mourn with you people too.
+
+It is true we have lost a kind woman, a radiant woman, a rare gem, a loving and caring mother per-excellence. Yet, it does not call for crying  like people without hope. Your major problem now is how to sustain the vacuum her death has created. The vacuum she left behind does not have the attribute associated with nothingness and emptiness. Rather, it is a vacuum where one can see things, hear things and feel things.
+
+Chief Ilo Francis Obiora, be consoled as the angels in heaven will receive her in their heavenly kingdom where there is no more pain, sorrow or tears any more. A good mother to all, may your gentle soul rest in peace Amen.
+
+## Ozo Ijegalu I. Akubue
+St. James Catholic Church
+Aku-Igbo Etiti L.G.A
+Enugu State Nigeria

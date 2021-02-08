@@ -4,7 +4,7 @@ title: "TRIBUTE TO MY Mother-in-law"
 date: "2021-01-23"
 excerpt: "
 Office Nwanyi, so it is true that you are no more, I have restrained myself from writing this piece thinking"
-author: "Uche Chibuike Chukwura"
+author: "Chiedozie Nwafor"
 rank: "Son-in-law"
 
 ---

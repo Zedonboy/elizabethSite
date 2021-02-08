@@ -84,3 +84,17 @@ I miss you, grandmum.
 Your Cherished grandson
 
 ## Agoziem Basil Enendu.
+
+---
+TRIBUTE TO MY DEAREST GRAND MUMMY 
+
+I cannot truly understand what death is all about. Does it mean I will not see my grandmummy again. Who will explain this to me very well. Does it mean nobody will call me "Nwa Mummy" again, Who will i tease when I am bored and wants to play.
+
+Grandmummy, I can't seem to forget the fascinating moments we had together. 11th of January 2021 was indeed a tragic one the day u were snatched by the cold hand of death. Grandmummy you are irreplaceable to me, but God knows the best. I accept it in good fate knowing that everything under the heaven, there is a time to die.
+
+I love you but God loves you more. May he grant you Eternal rest.
+
+
+Your grand daughter 
+
+## ILO SOMNULIA
