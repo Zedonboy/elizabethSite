@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 
-import port from "../images/port1.jpg"
+import port from "../images/tribute.jpg"
 import bg from "../images/bg.jpg"
 import Card from "../components/tribute-card"
 import Layout from "../components/layout"

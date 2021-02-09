@@ -33,13 +33,12 @@ const IndexPage = () => (
           NEE Obiajulu
         </p>
         <p className="text-sm text-center">
-          Who went to be with our lord on Monday 11th January 2021. Please Join us to
-          celebrate her unique memories and moments on
+          Who went to be with our lord on Monday 11th January 2021. Please join us to celebrate her unique memories and moments  as follows
         </p>
-        <SimpCard heading="Vigil Date" answer="4pm Wednesday 17th March, 2021"/>
+        <SimpCard heading="Vigil Date" answer="5pm Wednesday 17th March, 2021 by His Lordship Most Rev Dr. Paulinues Ezeokafor Catholic Bishop of Akwa diocese"/>
         <SimpCard heading="Vigil Venue" answer="chief Francis ilo's compound Ezioko village Oko"/>
 
-        <SimpCard heading="Funeral Date" answer="9am-10am Monday 18th March, 2021"/>
+        <SimpCard heading="Funeral Date" answer="10am Monday 18th March, 2021 by His lordship Most Rev Dr. Okpalaeke,catholic Bishop of Ekwulobia Diocese"/>
         <SimpCard heading="Funeral Mass Venue" answer="St. Peter's catholic church Oko, Orumba North LGA , Anambra State."/>
         <SimpCard heading="Interment Venue" answer="In her husband's compound"/>
         

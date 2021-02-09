@@ -11,7 +11,7 @@ It is sad, that I am writing this piece in honour  of late Chief (Mrs) Elizabet
 
 I met her as a 10years old boy in the 1st quarter, of 1992, and  one striking character of her, I appreciated so much, is teaching you what you are meant to do by doing that which you failed to do.
 
-Those days, were days, I refer as discipline years, were my parents taught me to greet everybody, talk of an Aunty, Uncle or any elder with goodmorning sir or ma. (The emphasis here is on the sir or ma, as the case) Now in Office's  case, that is, Chief Mrs Elizabeth Iloh, when I inadvertently forget to add the phrase  ma, when I greet her, she will respond by saying,
+Those days, were days, I refer as discipline years, were my parents taught me to greet everybody, talk of an Aunty, Uncle or any elder with goodmorning sir or ma. (the emphasis here is on sir or ma, depending on the sex) Now in Office's  case, that is, Chief Mrs Elizabeth Iloh, when I inadvertently forget to add the phrase  ma, when I greet her, she will respond by saying,
 
 ''Okezie goodmorning sir".
 

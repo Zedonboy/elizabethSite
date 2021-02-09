@@ -15,17 +15,3 @@ ADIEU OFFICE.
 
 ## Chibuike Chukwurah
 Son-in-law
-
----
-
-TRIBUTE TO OUR GRAND MOTHER 
-
-Grandmummy who said you are dead? We thought they said good people don't die. Grandmummy who will play and chase us around with cane. Grandmummy who will give us biscuit, gala, mineral, and Money like you used to.
-
-The news of your death came to us as a shock even as little as we are. Who will be our next Grandmummy. We are going to miss you so much. We your grandsons love you and pray that God will receive your soul and grant you Eternal rest in his bossom.
-
-Goodbye Grandmummy 
-
-Your grandchildren
-
-## ILO ADINA, CHIZZY and DALU
