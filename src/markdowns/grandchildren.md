@@ -14,7 +14,8 @@ My dear grandmother,
 I heard that you have gone to meet Jesus.
 I miss you grandmother. I wish I can see you again .If it pleases God, I will still see you in heaven. Rest in peace.
 
-Your grandson  
+Your grandson
+
 ## Chukwudalu nwafor
 
 ---
@@ -35,15 +36,16 @@ On 11th January, 2021, I was still rejoicing and thanking God for the gift of th
 Grandma I wish you a perfect rest in the bossom of our lord Jesus christ and may your soul rest in perfect peace, Amen.
 
 Your baby
+
 ## Esther Akpan
 
 ---
 
-TRIBUTE TO  MY RESILENT HEROINE 
+TRIBUTE TO MY RESILENT HEROINE
 
-My grandmother, a great woman who I  accorded great respect without limits or boundaries has taken her path to a blissful rest.
+My grandmother, a great woman who I accorded great respect without limits or boundaries has taken her path to a blissful rest.
 
-Mama you have always been a woman full of love, compassion, trust and cheerfulness. You are not only my  teacher, you are also my mentor and  leader.
+Mama you have always been a woman full of love, compassion, trust and cheerfulness. You are not only my teacher, you are also my mentor and leader.
 
 Life is a mystery that is only known to God. To Him we owe all things. Our days are numbered by Him and the decision is His alone. No man can question him.
 
@@ -51,20 +53,22 @@ Your death came as a shock, but I know that love and beautiful memories outlast 
 
 FARE WELL GRANDMA
 
-Your grandson 
+Your grandson
+
 ## CHIDUMEBI HYACINTH EZEANI
 
 ---
 
 LETTER TO BIG MUMMY
 
- Big Mummy, i did not see you for once. I wanted my Aunty to take me to you so that l can make your hair. I did not see you before you died. I will miss you so much.
+Big Mummy, i did not see you for once. I wanted my Aunty to take me to you so that l can make your hair. I did not see you before you died. I will miss you so much.
 
- My Aunty is very sorry for not taking me to see you. I wish you did not die so that you can see how I look. It pains me so much because you have never seen me. I wish they will allow me to look inside the casket to see how you look but am very sure they will not allow me. 
+My Aunty is very sorry for not taking me to see you. I wish you did not die so that you can see how I look. It pains me so much because you have never seen me. I wish they will allow me to look inside the casket to see how you look but am very sure they will not allow me.
 
- Big Mummy, may your soul rest in peace. I miss you so much.
+Big Mummy, may your soul rest in peace. I miss you so much.
 
 ## Ezinne Agwu
+
 Basic 4
 
 ---
@@ -86,7 +90,8 @@ Your Cherished grandson
 ## Agoziem Basil Enendu.
 
 ---
-TRIBUTE TO MY DEAREST GRAND MUMMY 
+
+TRIBUTE TO MY DEAREST GRAND MUMMY
 
 I cannot truly understand what death is all about. Does it mean I will not see my grandmummy again. Who will explain this to me very well. Does it mean nobody will call me "Nwa Mummy" again, Who will i tease when I am bored and wants to play.
 
@@ -94,20 +99,19 @@ Grandmummy, I can't seem to forget the fascinating moments we had together. 11th
 
 I love you but God loves you more. May he grant you Eternal rest.
 
-
-Your grand daughter 
+Your grand daughter
 
 ## ILO SOMNULIA
 
 ---
 
-TRIBUTE TO OUR GRAND MOTHER 
+TRIBUTE TO OUR GRAND MOTHER
 
 Grandmummy who said you are dead? We thought they said good people don't die. Grandmummy who will play and chase us around with cane. Grandmummy who will give us biscuit, gala, mineral, and Money like you used to.
 
 The news of your death came to us as a shock even as little as we are. Who will be our next Grandmummy. We are going to miss you so much. We your grandsons love you and pray that God will receive your soul and grant you Eternal rest in his bossom.
 
-Goodbye Grandmummy 
+Goodbye Grandmummy
 
 Your grandchildren
 
@@ -115,13 +119,29 @@ Your grandchildren
 
 ---
 
-### TRIBUTE TO MY DARLING GRANDMOTHER 
+### TRIBUTE TO MY DARLING GRANDMOTHER
 
-When I heard you have left us and gone, I was sad, angry and unhappy. But am consoled because I  know you are in a better place. You are with Jesus.
+When I heard you have left us and gone, I was sad, angry and unhappy. But am consoled because I know you are in a better place. You are with Jesus.
 
-I do not  have much to write but  I  say  thank you for everything , thank you so much granny . I love you and wlll miss you so much.
+I do not have much to write but I say thank you for everything , thank you so much granny . I love you and wlll miss you so much.
 
 Rest on mama.
 
 ## Pherdie Ezeani
+
 Grandson
+
+---
+
+### To my Super Grand mum
+
+I received the news of your departure with great shock, it still feels like yesterday when I last saw you at Oko
+ You always put the needs of others before your own needs, even in your sickness, you still cared for all your Grandchildren and children.
+    You are unique in your own way, your good works will not be forgotten and you will always have a place in the hearts of all your loved ones.
+   The world is not our home,we are all passers by and surely one day we will all return to our creator . 
+Rest in peace Grand mom, good bye for now until we meet again
+
+your grand daughter
+## Chidiebere Agatha Ijomah
+
+---

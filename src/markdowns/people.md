@@ -337,3 +337,45 @@ N’aha life members Nanka Deanery
  
 ## Mrs Martina Okoli- Onyeisi
 ## Mrs Amaka Nwankwo – Ode Akwukwo
+
+---
+
+TRIBUTE TO A FRIEND    
+
+l can't believe when I heard the death of  MUMY.  A still in shock over the news.   Mummy was source of strength to me.  She was very patient ,and Given is her second Name.  Throughout the time we lived in her house  as a student  we lack nothing.  She always looking out for one thing or the other to GIVE. What I don't understand is why she had to leave us  now. But my joy is that MUMMY is in the bosom of the Lord where  she is resting for eternity.  Rest in perfect peace OFFICE  as your fondly called. 
+
+## Udeh Chidi.
+
+---
+
+Uche,
+
+Odi m na mwute inu ozi gbasara onwu mama anyi bu Lolo Elizabeth ilo.  Ekpere m na - echiche oma m ga - anonyere gi na ezi n'ulo gi. Ka ihunanya nke ezi n' ulo na ndi enyi duu ma kasie gi obi n'oge ihe mgbu nile a. Biko, karunu obi n'onwu mama unu.
+
+Ka mkpuru obi ya zuruike na ndokwa ....Amiin.
+
+
+Ogo gi nwanyi
+
+## Anthony Adaku Ijeoma
+
+( Nee Chukwurah)
+
+---
+
+### TRIBUTE TO A GREAT MOTHER, MADAM ELIZABETH ILO (aka OFFICE)
+
+It was a moment of sadness that took me through a long memory lane when I heard the sad news of your demise. My heart was filled with pains that a great woman, a wonderful mother has departed from us. But the pains disappeared quickly when I remembered how beautifully you lived your life. 
+
+I remembered how you treated strangers like me in house at Presidential road, Enugu, how you welcomed me as if I was one of your daughter too during my University days.  I remembered your beautiful smiles and I have no doubt you have gone to be with our Great God. You welcomed strangers like me in your home and treat us as family members. 
+Mummy, It was a wonderful experience for me especially whenever I heard Daddy calls you ‘’ A Darling’’ I usually enjoy the sweet smiles that radiate from your face.   I have always teased your daughter Uchenna my friend about that and we will all smile over it. Mama Ngoo, you lived an exemplary life, a life a cheerfulness and gratitude. May God and His angles lead you Home and bless your soul forever. Amen. 
+Goodnight ‘’A Darling’’
+Goodnight ‘’OFFICE’’
+Goodnight Great Mother
+
+## Anulika Edokwe
+(Uche's friend)
+
+---
+
+

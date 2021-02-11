@@ -31,7 +31,7 @@ const Timeline = () => (
               </span>
             </div>
             <div className="desc">
-              5pm with a mass by His Lordship most Rev Dr. Okpalaeke, Catholic
+              5pm with a mass by His Lordship most Rev Dr. Ezeokafor , Catholic
               bishop of Awka, at chief Francis Ilo's
             </div>
           </div>
@@ -77,7 +77,7 @@ const Timeline = () => (
               </span>
             </div>
             <div className="desc">
-              10am Burial Mass by His Lordship Most Rev Doc. Okpalaibe, Catholic
+              10am Burial Mass by His Lordship Most Rev Dr. Okpalaeke, Catholic
               Bishop of Ekwulobia Diocese
             </div>
           </div>

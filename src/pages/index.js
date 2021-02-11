@@ -38,7 +38,7 @@ const IndexPage = () => (
         <SimpCard heading="Vigil Date" answer="5pm Wednesday 17th March, 2021 by His Lordship Most Rev Dr. Paulinues Ezeokafor Catholic Bishop of Akwa diocese"/>
         <SimpCard heading="Vigil Venue" answer="chief Francis ilo's compound Ezioko village Oko"/>
 
-        <SimpCard heading="Funeral Date" answer="10am Monday 18th March, 2021 by His lordship Most Rev Dr. Okpalaeke,catholic Bishop of Ekwulobia Diocese"/>
+        <SimpCard heading="Funeral Date" answer="10am Thursday 18th March, 2021 by His lordship Most Rev Dr. Okpalaeke,catholic Bishop of Ekwulobia Diocese"/>
         <SimpCard heading="Funeral Mass Venue" answer="St. Peter's catholic church Oko, Orumba North LGA , Anambra State."/>
         <SimpCard heading="Interment Venue" answer="In her husband's compound"/>
         
