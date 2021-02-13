@@ -193,18 +193,13 @@ Mama Nkiruka , I Pray for your soul to Rest in Perfect Peace.
 
 ---
 
-Mama as you are laid to rest , God has opened the door to paradise and into his mansion prepared for the saints to welcome you.
+Office, Mama Nkiruka
 
-Mama you were highly religious, caring and a loving mother,  your religious attitude can be attested in your cheerfulness and kindness.
+when I was planning to visit you. I got the shocking news of your demise. May your gentle soul be received by God. Ezigbo nwanyi Ijeoma, kenelum nnem.
 
-You are indeed a good mother, a role model that is worth emulating.
 
-As Christians, we are consoled with the fact that you are resting peacefully in the Lords bosom.
-
-Adieu office.
-
-## Mr/Mrs Chibuike Nwafor
-
+## F.O.Atu-Ibinabo
+DONSOTA INVESMENT  Ltd LTD.
 ---
 
 CELEBRATION OF HOMEWARD JOURNEY OF MADAM ELIZABETH MGBECHIKWELU ILO
@@ -334,15 +329,18 @@ Ezi nwanne anyi bu Elizabeth Ilo ndi out life members ibe gi na ayo chineke ka o
 Ka mkpuru obi gi na achoghi nsogbu zuru ike n’ndokwa Amen.
 
 N’aha life members Nanka Deanery
- 
+
+
+
 ## Mrs Martina Okoli- Onyeisi
+
 ## Mrs Amaka Nwankwo – Ode Akwukwo
 
 ---
 
-TRIBUTE TO A FRIEND    
+TRIBUTE TO A FRIEND
 
-l can't believe when I heard the death of  MUMY.  A still in shock over the news.   Mummy was source of strength to me.  She was very patient ,and Given is her second Name.  Throughout the time we lived in her house  as a student  we lack nothing.  She always looking out for one thing or the other to GIVE. What I don't understand is why she had to leave us  now. But my joy is that MUMMY is in the bosom of the Lord where  she is resting for eternity.  Rest in perfect peace OFFICE  as your fondly called. 
+l can't believe when I heard the death of MUMY. A still in shock over the news. Mummy was source of strength to me. She was very patient ,and Given is her second Name. Throughout the time we lived in her house as a student we lack nothing. She always looking out for one thing or the other to GIVE. What I don't understand is why she had to leave us now. But my joy is that MUMMY is in the bosom of the Lord where she is resting for eternity. Rest in perfect peace OFFICE as your fondly called.
 
 ## Udeh Chidi.
 
@@ -354,7 +352,6 @@ Odi m na mwute inu ozi gbasara onwu mama anyi bu Lolo Elizabeth ilo.  Ekpere m 
 
 Ka mkpuru obi ya zuruike na ndokwa ....Amiin.
 
-
 Ogo gi nwanyi
 
 ## Anthony Adaku Ijeoma
@@ -365,17 +362,16 @@ Ogo gi nwanyi
 
 ### TRIBUTE TO A GREAT MOTHER, MADAM ELIZABETH ILO (aka OFFICE)
 
-It was a moment of sadness that took me through a long memory lane when I heard the sad news of your demise. My heart was filled with pains that a great woman, a wonderful mother has departed from us. But the pains disappeared quickly when I remembered how beautifully you lived your life. 
+It was a moment of sadness that took me through a long memory lane when I heard the sad news of your demise. My heart was filled with pains that a great woman, a wonderful mother has departed from us. But the pains disappeared quickly when I remembered how beautifully you lived your life.
 
-I remembered how you treated strangers like me in house at Presidential road, Enugu, how you welcomed me as if I was one of your daughter too during my University days.  I remembered your beautiful smiles and I have no doubt you have gone to be with our Great God. You welcomed strangers like me in your home and treat us as family members. 
-Mummy, It was a wonderful experience for me especially whenever I heard Daddy calls you ‘’ A Darling’’ I usually enjoy the sweet smiles that radiate from your face.   I have always teased your daughter Uchenna my friend about that and we will all smile over it. Mama Ngoo, you lived an exemplary life, a life a cheerfulness and gratitude. May God and His angles lead you Home and bless your soul forever. Amen. 
+I remembered how you treated strangers like me in house at Presidential road, Enugu, how you welcomed me as if I was one of your daughter too during my University days. I remembered your beautiful smiles and I have no doubt you have gone to be with our Great God. You welcomed strangers like me in your home and treat us as family members.
+Mummy, It was a wonderful experience for me especially whenever I heard Daddy calls you ‘’ A Darling’’ I usually enjoy the sweet smiles that radiate from your face. I have always teased your daughter Uchenna my friend about that and we will all smile over it. Mama Ngoo, you lived an exemplary life, a life a cheerfulness and gratitude. May God and His angles lead you Home and bless your soul forever. Amen.
 Goodnight ‘’A Darling’’
 Goodnight ‘’OFFICE’’
 Goodnight Great Mother
 
 ## Anulika Edokwe
+
 (Uche's friend)
 
 ---
-
-

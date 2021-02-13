@@ -3,7 +3,8 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import port from "../images/port.jpeg"
+import port from "../images/port1.jpg"
+import Img from "gatsby-image"
 
 const SecondPage = ({
   data, // this prop will be injected by the GraphQL query below.
@@ -26,6 +27,7 @@ const SecondPage = ({
             {frontmatter.title}
           </h4>
           <p className="text-center normal-style text-sm">{frontmatter.date}</p>
+          
           <div
             className="tribute-content"
             dangerouslySetInnerHTML={{ __html: html }}
