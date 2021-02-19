@@ -375,3 +375,57 @@ Goodnight Great Mother
 (Uche's friend)
 
 ---
+
+### LETTER TO MRS E M ILO
+
+Office, somebody is missing you. I cant believe you are dead. Grand Mummy, you are a good woman and you have a good heart. Mummy, i wish you will cone back and live again. 
+
+Thank you for the things you did for me when you were alive. Grand Mummy, so you have gone to another world. May your good soul rest in peace ... Amen.
+
+May the God's blessings come upon your Children, grand Children and your husband in Jesus name ...... Amen. 
+
+
+Ezigbo nne bye bye .
+
+Office go in peace.
+
+
+## Akpan Chinenye 
+
+Basic 6
+
+---
+
+### TRIBUTE TO OFFICE UMU AGBARA
+
+Office is a woman I can also call Mother. I came to know her at a very tender age. She is a woman of integrity, honour and virtue. She hardly segregates and takes everyone like her own. I could remember those days at 18 Presidential Road as kids, when if our own biological mothers are not around, the fear of Office (as she stands in for our mothers most of the times then) is the beginning of wisdom.
+
+We also called her "mama landlord" then until we became of age to understand that there is landlord and "landlady" to qualify what we intended then as kids.
+
+Truly some of the virtues and ethics I have and know, were also gotten and learnt from her. She is indeed a woman of substance.
+
+When it comes to the things of the Lord, she also has it at her tips, for her to also dedicate her house for fellowship known as "sing song", is one of the signs of her relationship with God.
+
+With these, I want to believe she is resting in the bosom of our Lord Jesus Christ.
+
+Adieu Mma Tochukwu!
+
+Mama jee nke oma!!
+
+## Chinyere Uzuegbunam (Chillyne)
+
+---
+
+### TRIBUTE TO AN AMAZING MOTHER 
+
+To think that you're gone is so unbeatable. You were such an amazing mom since the time I knew you. Ever soft spoken, cheerful and above all lover of God and His word. Why did death never allowed you live longer?
+
+As you journey to the great beyond, may God grant you eternal rest.
+
+May God also give special comfort to all you left behind.
+
+
+Good night Mummy Elizabeth.
+
+
+## Engr & Mrs Emeka Anyado.
