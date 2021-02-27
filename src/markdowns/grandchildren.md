@@ -142,6 +142,40 @@ I received the news of your departure with great shock, it still feels like yest
 Rest in peace Grand mom, good bye for now until we meet again
 
 your grand daughter
+
 ## Chidiebere Agatha Ijomah
 
 ---
+
+### TRIBUTE TO MY LOVELY GRANDMOTHER
+
+Grandma you may have passed on, but your memories will always live within us, when we recall the good times we spent together and how often you visited, we can't help but miss you more.
+
+You were a guardian and model to us and indeed unique!.
+
+We thank you for your sacrifices, care, love and everything you have done for us. We know that you are in a much better place and we would never forget you. Rest in perfect peace.
+
+Your Grandson,
+
+## Chukwunonso
+
+---
+
+A tribute to my beloved grandmother
+
+it was shocking to hear that you are no more. You were a woman of great integrity. you cared zealously about the welfare of your children. The good memories I had with you  are deep and it seems so fresh in my memory.  I admire how you were able to carry everyone around you along and all your encouragement. Your are indeed my mentor. Am happy  you lived a fullfiled life and I strongly believe that you are in a better place now. 
+Adieu my exceptional grandma .we love you and may your gentle soul rest in perfect peace.
+
+Your granddaughter, 
+## Ujuamara  Ijomah
+
+---
+
+### TRIBUTE TO MY DARLING GRANNY 
+
+Granny l am very sad and I feel so sorry on your death. I remember very well it was you who taught me some good characters,the right thing to do at the right time and how to say the Rosary. I was in school when the incident happend ,but I know my parents have a reason why they did not tell me, they did not want me to loose concentration that I may still be able to take my studies seriously so when I came back for 1st term holiday on 26st February 2021 and I was told ,God has called you I felt so bad and cried 
+
+MAMA , MAY YOUR SOUL REST IN PEACE AMEN
+
+Your granddaughter 
+## Chinaza Nwafor

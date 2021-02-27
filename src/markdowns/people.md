@@ -197,10 +197,9 @@ Office, Mama Nkiruka
 
 when I was planning to visit you. I got the shocking news of your demise. May your gentle soul be received by God. Ezigbo nwanyi Ijeoma, kenelum nnem.
 
-
 ## F.O.Atu-Ibinabo
-DONSOTA INVESMENT  Ltd LTD.
----
+
+## DONSOTA INVESMENT  Ltd LTD.
 
 CELEBRATION OF HOMEWARD JOURNEY OF MADAM ELIZABETH MGBECHIKWELU ILO
 
@@ -330,8 +329,6 @@ Ka mkpuru obi gi na achoghi nsogbu zuru ike n’ndokwa Amen.
 
 N’aha life members Nanka Deanery
 
-
-
 ## Mrs Martina Okoli- Onyeisi
 
 ## Mrs Amaka Nwankwo – Ode Akwukwo
@@ -378,17 +375,15 @@ Goodnight Great Mother
 
 ### LETTER TO MRS E M ILO
 
-Office, somebody is missing you. I cant believe you are dead. Grand Mummy, you are a good woman and you have a good heart. Mummy, i wish you will cone back and live again. 
+Office, somebody is missing you. I cant believe you are dead. Grand Mummy, you are a good woman and you have a good heart. Mummy, i wish you will cone back and live again.
 
 Thank you for the things you did for me when you were alive. Grand Mummy, so you have gone to another world. May your good soul rest in peace ... Amen.
 
-May the God's blessings come upon your Children, grand Children and your husband in Jesus name ...... Amen. 
-
+May the God's blessings come upon your Children, grand Children and your husband in Jesus name ...... Amen.
 
 Ezigbo nne bye bye .
 
 Office go in peace.
-
 
 ## Akpan Chinenye 
 
@@ -416,7 +411,7 @@ Mama jee nke oma!!
 
 ---
 
-### TRIBUTE TO AN AMAZING MOTHER 
+### TRIBUTE TO AN AMAZING MOTHER
 
 To think that you're gone is so unbeatable. You were such an amazing mom since the time I knew you. Ever soft spoken, cheerful and above all lover of God and His word. Why did death never allowed you live longer?
 
@@ -424,8 +419,88 @@ As you journey to the great beyond, may God grant you eternal rest.
 
 May God also give special comfort to all you left behind.
 
-
 Good night Mummy Elizabeth.
 
-
 ## Engr & Mrs Emeka Anyado.
+
+---
+
+CONDOLENCE MESSAGE
+
+Dear Nkiruka and family
+
+We received with great grief the news of the demise and transition of your sister and our sister and mother late madam Elizabeth Ilo. It is with a heartfelt sympathy and a deep sense of loss that we the priest and entire members of St. Aloysius catholic church oginigba passionately convey this message to you.
+
+The inevitable is that which is bound to happen, though it mostly occurs when least expected. As we mourn her demise, we are comforted that she lived a purposeful life, dedicated to God's service. We pray and are certain that she will continue her service with God with the host of Angels in heaven.
+
+While praying for the gentle repose of her soul, we urge you to find solace in the scripture and uphold the worthy legacies that she left behind. May God grant you and the entire family the fortitude to bear the irreplaceable loss. Amen.
+
+Please accept our sympathy and tribute.
+
+### Mr. Andrew Nwankwo
+
+PPC vice chairman
+
+### Lady Oluchi Eze
+
+Laity Council Chairman
+
+### Rev. Fr. Fabian Anaele
+
+Parish Priest
+
+---
+
+### TRIBUTE TO A GREAT WOMAN
+
+Oh death you have taken our amiable first mother in law, death you thought you killed, destroyed and stolen her not knowing that she transited to paradise where she will live from glory to glory
+
+We recieved the news of your death with great shock,especially now we need to tap from your wealth of experience  (office) as you are fondly called,our relationship as the first mother in law in the family of ICHIE Gabriel Nwafor is barely above ten years, ma'am you left us when we need you most, your presence and advice will be missed greatly, we believe whatever it would've cost to prevent your death is not beyond your loved ones but almighty God knows the best, NWANYI OMA JEE NKE OMA
+
+Adieu
+
+Madam Elizabeth Mgbechikwelu Ilo (Office)
+
+Signed
+### Don Hillary Nwafor O
+
+(DONHIL)
+
+---
+
+### Tribute from Oby's goddaughter
+
+Office umuagbara!
+
+As my godmother Obiageli Ilo fondly called you. The news of Your demise came as a big blow and broke us into uncountable pieces! The love you shared with my godmother was an enviable one.
+
+You  were such a good woman, teacher, teamworker ,a mother and friend. You were everything good and more.Your devotion to family and the Lord was top notch. 
+
+Alas! Death has robbed us of a priceless jewel . The footprints of your good deeds will ever remain engraved on the sand of time.
+
+Take heart my beloved Godmother,may God give you and entire household the fortitude to bear this Loss.
+
+### Oputa Chimdimma
+
+RN,BnSC
+
+---
+
+TRIBUTE FROM CWO MATER ECCLESIA CATHOLIC CHURCH NDDC RD, ENEKA, PORT HARCOURT 
+
+Dear sister Nkiruka 
+
+We commiserate with you and the entire Nwafor and Ilo family on the demise of your lovely mother .
+The stories and testimonies surrounding her life spelt out a total greatness for any woman one can think of. Mama like a tired pilgrim, has returned to God her creator. 
+
+We will celebrate Ezinne Office
+not by sorrowful chants and lamentation 
+for that would make death a finality and conqueror. We will celebrate her in Joy for she has fought the good fight, she has finished the race and has kept the faith, may it please our good God to crown her.
+
+We pray that Almighty God will grant her eternal rest, and the entire family a sound solid mind to overcome the
+irreparable loss.Amen
+
+NNEOMA JEE NKE OMA
+
+Mrs Ugwueze Anthonia - President
+Mrs Otusma Georgenia- Secretary
