@@ -462,6 +462,7 @@ Adieu
 Madam Elizabeth Mgbechikwelu Ilo (Office)
 
 Signed
+
 ### Don Hillary Nwafor O
 
 (DONHIL)
@@ -474,7 +475,7 @@ Office umuagbara!
 
 As my godmother Obiageli Ilo fondly called you. The news of Your demise came as a big blow and broke us into uncountable pieces! The love you shared with my godmother was an enviable one.
 
-You  were such a good woman, teacher, teamworker ,a mother and friend. You were everything good and more.Your devotion to family and the Lord was top notch. 
+You  were such a good woman, teacher, teamworker ,a mother and friend. You were everything good and more.Your devotion to family and the Lord was top notch.
 
 Alas! Death has robbed us of a priceless jewel . The footprints of your good deeds will ever remain engraved on the sand of time.
 
@@ -486,15 +487,15 @@ RN,BnSC
 
 ---
 
-TRIBUTE FROM CWO MATER ECCLESIA CATHOLIC CHURCH NDDC RD, ENEKA, PORT HARCOURT 
+TRIBUTE FROM CWO MATER ECCLESIA CATHOLIC CHURCH NDDC RD, ENEKA, PORT HARCOURT
 
-Dear sister Nkiruka 
+Dear sister Nkiruka
 
 We commiserate with you and the entire Nwafor and Ilo family on the demise of your lovely mother .
-The stories and testimonies surrounding her life spelt out a total greatness for any woman one can think of. Mama like a tired pilgrim, has returned to God her creator. 
+The stories and testimonies surrounding her life spelt out a total greatness for any woman one can think of. Mama like a tired pilgrim, has returned to God her creator.
 
 We will celebrate Ezinne Office
-not by sorrowful chants and lamentation 
+not by sorrowful chants and lamentation
 for that would make death a finality and conqueror. We will celebrate her in Joy for she has fought the good fight, she has finished the race and has kept the faith, may it please our good God to crown her.
 
 We pray that Almighty God will grant her eternal rest, and the entire family a sound solid mind to overcome the
@@ -504,3 +505,34 @@ NNEOMA JEE NKE OMA
 
 Mrs Ugwueze Anthonia - President
 Mrs Otusma Georgenia- Secretary
+
+---
+
+THE CONFRATERNITY OF MOTHER OF PERPETUAL HELP MATER ECCLESIA he Confraternity of
+Mother of Perpetual CATHOLIC CHURCH ENEKA, PORT HARCOURT
+
+Dear Mrs. Nwafor,
+
+With heartfelt regrets but total submission to the will of Almighty God on behalf of the Confraternity of our
+Mother of Perpetual
+Help, Mater Ecclesia, we commiserate with you on the passing onto glory of your beloved mother, Mrs Elizabeth ILO. she will be deeply missed by many who enjoyed her motherly love and tender care. Death is inevitable to all living creature created by God and so it will come when it will come. As Christians we believe in the resurrection of the dead. we pray for the repose of her soul in the bossom of our Lord Jesus Christ. we equally pray that God will grant you and your family the fortitude to bear the irreparable loss, Amen
+
+President sister Chioma
+
+Secretary Rita C.Ugwueke
+
+---
+
+TRIBUTE TO MY SISTER-IN-LAW
+
+“OUR LOSS, Heaven’s Gain”
+Death has never been known to be a friend and most unwelcomed visitor to many families. That was our experience on 11th January 2021 when Mama Ngizi, my brothers wife, my Amaka, Omaricham passed on to glory.
+Truth, I got the shocking sad news in the morning hours of 12th January 2021, but it was at night when I laid down to sleep that I felt the impact of the death. The reality of her passing on to eternity became apparent, the vacuum which her death had created became clear and the actual pain came.
+Though she looked “Frail” like some diabetics do when last we were together on the 3rd of January 2021, but not such as to think of a sudden death.
+Mama Ngozi, Omaricham was a peace loving woman. She lived a peaceful life and preached peace to all around her. Her peace loving virtue came to full manifestation during the last few hours of her existence. She quietly and peacefully slept on to the Lord.
+The death of a loved one is undoubtablly a great and sad loss but we take solance in the fact that Mama Ngozi lived a rewarding and fulfilled life worthy of emulation. This fact should always console us.
+Mama Ngozi, Omaricham was a very creative, hardworking and industrious woman. She was very humble, simple and modest at its best.
+Omaricham, Madam Office, Ezinne and Madam Peace, because I cannot change the will of God, I say “FAREWELL”. As your body is committed to the mother earth today, it is my avowed prayer that God shall welcome your soul in his divine bosom where happiness and joy know no bounds.
+May your gentle soul rest in perfect peace, Amen!!!
+
+Sir (Dr.) Raphael E. Iloh

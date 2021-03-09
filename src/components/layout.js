@@ -7,15 +7,14 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
-
-import Header from "./header"
+import Sound from "react-sound"
 import "./layout.css"
-
+import credo from "../gallery/credo.mp3"
 const Layout = ({ children }) => {
   
   return (
     <>
+    <Sound url={credo} playStatus={Sound.status.PLAYING}/>
       <section className="w-full h-full relative bg-pink-100">
       <nav className="bg-transparent max-h-24 flex w-full">
         <div className="w-full flex-shrink-0 md:w-2/3 bg-black border-r-4 border-l-4 border-b-4 border-solid border-yellow-500 h-16 rounded-b-lg ">
