@@ -8,7 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import "./layout.css"
-import song from "../gallery/credo.mp3"
+import song from "../assets/music/credo.mp3"
 const Layout = ({ children }) => {
   
   return (
