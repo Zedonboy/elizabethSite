@@ -2,11 +2,13 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
+import song from "../assets/music/1.mp3"
 import port from "../images/port1.jpg"
 const BiograpgyPage = ({ data }) => {
   let pageData = data.allFile.edges[0].node.childMarkdownRemark
   return (
     <Layout>
+      <audio src={song} autoPlay={true} ></audio>
       <main className="flex flex-col text-purple-900 mt-4 justify-center">
         <div className="flex justify-center">
           <div className="frame w-48 h-48 p-2">

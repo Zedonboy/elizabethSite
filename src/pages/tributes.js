@@ -4,10 +4,12 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import port from "../images/tribute.jpg"
 import bg from "../images/bg.jpg"
 import Card from "../components/tribute-card"
+import song from "../assets/music/3.mp3"
 import Layout from "../components/layout"
 const IndexPage = ({data}) => {
   return (
     <Layout>
+      <audio src={song} autoPlay={true} ></audio>
       <main className="flex flex-col justify-center p-2 md:p-24">
         <div className="flex justify-center">
           <figure>

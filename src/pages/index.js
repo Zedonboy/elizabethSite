@@ -4,9 +4,11 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import bg from "../gallery/bg.png"
 import candle from "../images/candle.png"
+import song from "../assets/music/2.mp3"
 import SimpCard from "../components/SimpCard"
 const IndexPage = () => (
   <Layout>
+    <audio src={song} autoPlay={true} ></audio>
     <main className="flex flex-wrap text-purple-900 mt-4">
       <div className="w-full md:w-1/2 flex justify-center">
         <img src={bg} />
