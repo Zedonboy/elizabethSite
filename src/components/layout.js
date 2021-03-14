@@ -60,8 +60,9 @@ const Layout = ({ children }) => {
         </div>
       </nav>
       {children}
-      <footer className="p-2 flex justify-center items-center">
+      <footer className="p-2 flex flex-col justify-center items-center">
         <span> Designed by <a className="text-green-500 text-base" href="https://twitter.com/dtc_inc">DecTek</a></span>
+        <p>+2347041501141</p>
       </footer>
       </section>
     </>
